@@ -1,5 +1,14 @@
-https://www.kaggle.com/code/koustavghosh149/worldwide-co2-emission-visualization
-
 Curso kaggle: https://www.kaggle.com/learn/data-visualization
 
-https://www.kaggle.com/code/alexisbcook/exercise-manipulating-geospatial-data
+Referencias:
+  https://informationisbeautiful.net/
+
+Datasets:
+  https://www.kaggle.com/code/koustavghosh149/worldwide-co2-emission-visualization
+
+  https://www.kaggle.com/code/alexisbcook/exercise-manipulating-geospatial-data
+
+  https://www.kaggle.com/datasets/shariful07/student-mental-health
+  
+Aplicações:
+  https://www.kaggle.com/code/pamellabaldini/renewables-energy-tableau-dashboard/notebook
