@@ -1,0 +1,5 @@
+https://www.kaggle.com/code/koustavghosh149/worldwide-co2-emission-visualization
+
+Curso kaggle: https://www.kaggle.com/learn/data-visualization
+
+https://www.kaggle.com/code/alexisbcook/exercise-manipulating-geospatial-data
